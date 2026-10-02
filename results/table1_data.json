@@ -1,0 +1,32 @@
+{
+  "train": {
+    "pairs": 56355,
+    "mean_source_len": 41.47,
+    "max_source_len": 230,
+    "mean_target_len": 17.05,
+    "max_target_len": 76,
+    "pairs_dropped_too_long": 0,
+    "max_src_threshold": 512,
+    "max_tgt_threshold": 128
+  },
+  "dev": {
+    "pairs": 8421,
+    "mean_source_len": 42.01,
+    "max_source_len": 194,
+    "mean_target_len": 17.21,
+    "max_target_len": 51,
+    "pairs_dropped_too_long": 0,
+    "max_src_threshold": 512,
+    "max_tgt_threshold": 128
+  },
+  "test": {
+    "pairs": 15878,
+    "mean_source_len": 42.17,
+    "max_source_len": 305,
+    "mean_target_len": 17.34,
+    "max_target_len": 55,
+    "pairs_dropped_too_long": 0,
+    "max_src_threshold": 512,
+    "max_tgt_threshold": 128
+  }
+}

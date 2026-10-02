@@ -1,0 +1,3 @@
+{"phase": 1, "table_id": "1-10015132-11", "question": "What position does the player who played for butler cc (ks) play?", "sql": {"sel": 3, "conds": [[5, 0, "Butler CC (KS)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-11", "question": "How many schools did player number 3 play at?", "sql": {"sel": 5, "conds": [[1, 0, "3"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10015132-11", "question": "What school did player number 21 play for?", "sql": {"sel": 5, "conds": [[1, 0, "21"]], "agg": 0}}

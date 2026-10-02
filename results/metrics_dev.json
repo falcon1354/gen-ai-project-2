@@ -1,0 +1,9 @@
+{
+  "split": "dev",
+  "method": "beam",
+  "official_lf_accuracy": 0.40482128013300084,
+  "official_ex_accuracy": 0.47999049994062465,
+  "pred_file": "C:\\Users\\Falcon\\Downloads\\FAST\\Semester 9\\Generative AI\\Project 2\\Gen AI Project 2\\results\\preds_dev.jsonl",
+  "source_file": "C:\\Users\\Falcon\\Downloads\\FAST\\Semester 9\\Generative AI\\Project 2\\Gen AI Project 2\\WikiSQL\\data\\dev.jsonl",
+  "db_file": "C:\\Users\\Falcon\\Downloads\\FAST\\Semester 9\\Generative AI\\Project 2\\Gen AI Project 2\\WikiSQL\\data\\dev.db"
+}

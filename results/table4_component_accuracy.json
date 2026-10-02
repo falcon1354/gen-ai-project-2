@@ -1,0 +1,8 @@
+{
+  "n": 8421,
+  "parse_failures_pct": 0.96,
+  "sel_column_correct_pct": 68.07,
+  "agg_correct_pct": 88.11,
+  "where_clause_correct_pct": 54.13,
+  "internal_lf_pct": 40.48
+}

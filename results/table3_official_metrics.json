@@ -1,0 +1,26 @@
+[
+  {
+    "split": "dev",
+    "decoding": "greedy",
+    "logical_form_pct": 40.16,
+    "execution_pct": 47.31,
+    "parse_failures_pct": 0.9381308633178957,
+    "status": "ok"
+  },
+  {
+    "split": "dev",
+    "decoding": "beam (4)",
+    "logical_form_pct": 40.48,
+    "execution_pct": 48.0,
+    "parse_failures_pct": 0.96,
+    "status": "ok"
+  },
+  {
+    "split": "test",
+    "decoding": "beam (4)",
+    "logical_form_pct": 38.78,
+    "execution_pct": 46.35,
+    "parse_failures_pct": 0.9132132510391737,
+    "status": "ok"
+  }
+]

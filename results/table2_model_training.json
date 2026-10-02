@@ -1,0 +1,11 @@
+{
+  "trainable_parameters": 7578624,
+  "epochs_trained": 20,
+  "best_epoch": 19,
+  "best_dev_loss": 1.4948123068941328,
+  "training_time": null,
+  "gpu": "EDIT ME (e.g. Tesla T4)",
+  "notes": [
+    "training_history.json missing (loss curve needs a re-train with updated train.py, or paste Colab logs)."
+  ]
+}

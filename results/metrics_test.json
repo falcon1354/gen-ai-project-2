@@ -1,0 +1,14 @@
+{
+  "split": "test",
+  "method": "beam",
+  "official_lf_accuracy": 0.38776924045849603,
+  "official_ex_accuracy": 0.46353445018264267,
+  "pred_file": "/content/drive/MyDrive/GenAI_Project2/Gen AI Project 2/results/preds_test.jsonl",
+  "source_file": "/content/drive/MyDrive/GenAI_Project2/Gen AI Project 2/WikiSQL/data/test.jsonl",
+  "db_file": "/content/drive/MyDrive/GenAI_Project2/Gen AI Project 2/WikiSQL/data/test.db",
+  "parse_failure_rate": 0.9132132510391737,
+  "select_accuracy": 66.42524247386321,
+  "aggregation_accuracy": 88.61317546290465,
+  "where_accuracy": 52.31767225091321,
+  "n": 15878
+}

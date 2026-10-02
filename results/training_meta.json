@@ -1,0 +1,7 @@
+{
+  "device": "cuda",
+  "gpu_name": "EDIT ME (e.g. Tesla T4)",
+  "total_training_time_sec": null,
+  "total_training_time_hours": null,
+  "note": "Fill this file if Colab did not save training_meta.json"
+}

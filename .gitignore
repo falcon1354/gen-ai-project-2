@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.bak
+
+# WikiSQL archive (keep extracted data if you want; archive is large)
+WikiSQL/data.tar.bz2
+
+# Generated starter artifacts (can regenerate)
+starter/processed/
+starter/tokenizer_files/
+
+# Training / results
+results/*.pt
+results/*.pth
+results/*.png
+!results/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

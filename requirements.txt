@@ -1,0 +1,10 @@
+torch>=2.0.0
+sentencepiece>=0.1.99
+matplotlib>=3.7.0
+numpy>=1.24.0
+streamlit>=1.28.0
+
+# Official WikiSQL evaluator (WikiSQL/evaluate.py)
+tqdm>=4.66.0
+records>=0.5.3
+babel>=2.12.0
